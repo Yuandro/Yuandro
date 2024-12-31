@@ -12,7 +12,14 @@ I’m a Data Analytics and Engineering Professional with 4+ years of experience 
 - Use cloud platforms like AWS and Google BigQuery to handle large datasets
 - Solve business problems with actionable, data-driven strategies
 
+📊 Tools & Technologies
+- Languages: Python, SQL
+- Data Tools: Power BI, Tableau, Google Looker Studio
+- Cloud: AWS, Google Cloud
+- Others: Git, Docker, Hadoop
 
+📫 Let's Connect!
+- 💼 LinkedIn : https://www.linkedin.com/in/suyanto-zhang/
 
 
 <!--
