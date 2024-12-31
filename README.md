@@ -5,6 +5,16 @@ I’m a Data Analytics and Engineering Professional with 4+ years of experience 
 - 🛠️ Experienced in data visualization, data pipelines, and dashboard development
 - 🌱 Currently learning Kafka, machine learning, and advanced cloud tools
 - ✨ Fun fact: I’m also learning Mandarin and enjoy upbeat Chinese remix songs 🎶
+
+💼 What I Do
+- Build data pipelines to streamline analytics processes
+- Design interactive dashboards to transform complex data into insights
+- Use cloud platforms like AWS and Google BigQuery to handle large datasets
+- Solve business problems with actionable, data-driven strategies
+
+
+
+
 <!--
 **Yuandro/Yuandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
