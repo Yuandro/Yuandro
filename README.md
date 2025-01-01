@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Suyanto
-I’m a Data Analytics and Engineering Professional with 4+ years of experience in FMCG sales and a passion for building data-driven solutions. Skilled in SQL, Python, Power BI, and cloud technologies (AWS Certified Cloud Practitioner).
+I’m a Data Analytics and Engineering Professional with 4+ years of experience in FMCG sales and a passion for building data-driven solutions. Skilled in SQL, Python, Data Visualization, and cloud technologies (AWS Certified Cloud Practitioner).
 
 - 🎓 Graduate of AWS re/Start and Digital Skola Fast Track Data Engineer Program
 - 🛠️ Experienced in data visualization, data pipelines, and dashboard development
