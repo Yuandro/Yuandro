@@ -21,7 +21,6 @@ I’m a Data Analytics and Engineering Professional with 4+ years of experience 
 📫 Let's Connect!
 - 💼 LinkedIn : https://www.linkedin.com/in/suyanto-zhang/
 
-[![Your Badge Name](https://www.credly.com/badges/YOUR-BADGE-ID/image)](https://www.credly.com/badges/YOUR-BADGE-ID)
 
 <!--
 **Yuandro/Yuandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
